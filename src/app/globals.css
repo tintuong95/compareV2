@@ -1,0 +1,42 @@
+
+body{
+    background-color: #fff7f7 !important;
+   
+}
+body::-webkit-scrollbar {
+    display: none;
+}
+
+.none{
+    display: none;
+}
+
+.carousel-item{
+    height: auto !important;
+}
+
+.btn-friwo-handler{
+    border:1px solid orange;
+    transition: all 1s;
+    color:orange;
+    width: 120px;
+}
+
+.btn-friwo-handler:hover{
+    border:1px solid orange(172, 255, 47, 0.74);
+    background-color: orange;
+    transition: all 1s;
+}
+
+.btn-friwo{
+    background-color: orange; 
+    border:1px solid orange;
+}
+
+.btn-friwo:hover{
+    background-color: rgba(255, 166, 0, 0.822); 
+}
+
+.border-none{
+    border:none !important;
+}
