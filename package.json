@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev -p 7275 --experimental-https",
+    "dev": "next dev -p 7276 --experimental-https",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
@@ -21,6 +21,7 @@
     "rc-dialog": "^9.3.4",
     "react": "18.2.0",
     "react-compare-image": "^3.4.0",
+    "react-compare-slider": "^3.0.1",
     "react-dom": "18.2.0",
     "react-hook-form": "^7.45.2",
     "swiper": "^11.0.5"
